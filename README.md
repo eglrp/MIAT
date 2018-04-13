@@ -4,10 +4,14 @@ Rename.py 批量重命名
 
 ImageAnnotation.py 图像标注
 
+ChooseManually.py 手动框选
+
 ## Author
 
-Resize.py / ChuengXu
+Resize.py / [ChuengXu](https://github.com/CheungXu)
 
-Rename.py / ChuengXu
+Rename.py / [ChuengXu](https://github.com/CheungXu)
 
-ImageAnnotation.py / joker970327
+ImageAnnotation.py / [joker970327](https://github.com/joker970327)
+
+ChooseManually.py / [dishenwx](https://github.com/dishenwx)
